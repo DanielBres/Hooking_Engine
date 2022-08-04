@@ -781,7 +781,3 @@ BOOL WINAPI NewWriteFileW(HANDLE hFile, LPCVOID lpBuffer, DWORD nNumberOfBytesTo
 	return OldWriteFileW(hFile, lpBuffer, nNumberOfBytesToWrite, lpNumberOfBytesWritten, lpOverlapped);
 }
 */
-
-
-
-
